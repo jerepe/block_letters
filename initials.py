@@ -1,5 +1,4 @@
-# My name is Jeremy Perreau
-# Let's connect !
+# Prints letters J P
 
 print("JJJJJJJ      PPPPPP ")
 print("   J         P     P")
